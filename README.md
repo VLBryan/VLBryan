@@ -45,12 +45,8 @@ Soy estudiante de Big Data y Ciencia de Datos en TECSUP. Me apasiona la ciencia 
 - Análisis Multivariado en R  
     Proyecto académico aplicado a datos de lectura en niños menores de 15 años. Se implementó un modelo de regresión múltiple para identificar variables relevantes.
 
-# Mis estadísticas en GitHub
-![VLBryan GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanVillasante&show_icons=true&theme=radical)
-
 # Conecta conmigo
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-https://www.linkedin.com/in/bryan-jean-pierre-villasante-lopez-283aa4304/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-jean-pierre-villasante-lopez-283aa4304/)
 
 
 **"En Big Data no se presupone nada, se demuestra."**
