@@ -23,7 +23,7 @@ Soy estudiante de Big Data y Ciencia de Datos en TECSUP. Me apasiona la ciencia 
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black  )
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white  )
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white  )](https://github.com/VLBryan)
 
 # Proyectos destacados
 - Segmentación de empresas en el uso del factoring en Perú (2024)  
